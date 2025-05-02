@@ -1,4 +1,4 @@
-# CC4104-Creative-Computing-P5JS Project
+# CC4104-Creative-Computing P5JS Project
 ## Due June 2 2025
 
 By Ryan Blestowe
