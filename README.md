@@ -4,14 +4,14 @@
 By Ryan Blestowe
 
 
-## Experiment 1
-### An alternative visual way to represent a realtime clock
+### Experiment 1
+#### An alternative visual way to represent a realtime clock
 
 
-## Experiment 2
-### A city or landscape generator, with at least 3 distinct types of building or land
+### Experiment 2
+#### A city or landscape generator, with at least 3 distinct types of building or land
 
 
-## Experiment 3
-### One key game (two players) with a clear win state
+### Experiment 3
+#### One key game (two players) with a clear win state
 
