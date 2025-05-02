@@ -5,7 +5,7 @@ By Ryan Blestowe
 
 
 ### Experiment 1
-#### An alternative visual way to represent a realtime clock
+#### **An alternative visual way to represent a realtime clock**
 test test test
 
 ### Experiment 2
