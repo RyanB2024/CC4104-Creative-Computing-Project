@@ -1,4 +1,4 @@
-# CC4104-Creative-Computing P5JS Project
+# CC4104-Creative-Computing p5.js Project
 ## Due June 2 2025
 
 By Ryan Blestowe
@@ -6,6 +6,8 @@ By Ryan Blestowe
 
 ### Experiment 1
 #### An alternative visual way to represent a realtime clock
+[Real-time clock](https://editor.p5js.org/RyanB2024/sketches/xJCJdTdr4)
+
 test test test
 
 ### Experiment 2
