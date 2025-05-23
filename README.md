@@ -11,6 +11,8 @@ By Ryan Blestowe
 <img src="Project 1 - Photo 1.png" alt="Alt text" width="300"/>
 <img src="Project 1 - Photo 2.png" alt="Alt text" width="300"/>
 
+Example text
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Experiment 2
 #### A city or landscape generator, with at least 3 distinct types of building or land
