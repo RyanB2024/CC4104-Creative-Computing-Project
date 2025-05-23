@@ -8,7 +8,6 @@ By Ryan Blestowe
 #### An Alternative Visual Way to Represent a Realtime Clock
 [Real-time Clock](https://editor.p5js.org/RyanB2024/sketches/xJCJdTdr4)
 
-test test test
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Experiment 2
