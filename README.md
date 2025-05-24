@@ -18,6 +18,9 @@ Example text
 #### A city or landscape generator, with at least 3 distinct types of building or land
 [Landscape Generator](https://editor.p5js.org/RyanB2024/sketches/L9X75r_a8)
 
+<img src="Project 2 - Day.png" alt="Alt text" width="300"/>
+<img src="Project 2 - Night.png" alt="Alt text" width="300"/>
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Experiment 3
 #### One key game (two players) with a clear win state
