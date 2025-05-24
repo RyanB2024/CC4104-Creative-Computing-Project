@@ -21,6 +21,8 @@ Example text
 <img src="Project 2 - Day.png" alt="Alt text" width="300"/>
 <img src="Project 2 - Night.png" alt="Alt text" width="300"/>
 
+Example text
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Experiment 3
 #### One key game (two players) with a clear win state
