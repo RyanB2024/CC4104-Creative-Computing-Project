@@ -25,7 +25,7 @@ Example text
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Experiment 3
-#### One key game (two players) with a clear win state
-[One Key Game](https://editor.p5js.org/RyanB2024/sketches/o4NePGGnLG)
+#### An autonomous pattern generator that will create a rich visual effect that is different each time it is rune
+[Patter Generator](https://editor.p5js.org/RyanB2024/sketches/KTnNE3Lgz)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
