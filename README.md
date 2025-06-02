@@ -28,4 +28,9 @@ Example text
 #### An autonomous pattern generator that will create a rich visual effect that is different each time it is rune
 [Patter Generator](https://editor.p5js.org/RyanB2024/sketches/KTnNE3Lgz)
 
+<img src="Project 3 - Photo1.png" alt="Alt text" width="300"/>
+<img src="Project 3 - Photo2.png" alt="Alt text" width="300"/>
+<img src="Project 3 - Photo3.png" alt="Alt text" width="300"/>
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
