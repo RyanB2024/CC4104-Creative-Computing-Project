@@ -6,10 +6,9 @@ By Ryan Blestowe
 
 ### Experiment 1
 #### An Alternative Visual Way to Represent a Realtime Clock
-[Real-time Clock](/project-1/index.html)
 
-<img src="Project 1 - Photo 1.png" alt="Alt text" width="300"/>
-<img src="Project 1 - Photo 2.png" alt="Alt text" width="300"/>
+<img src="Project 1/Project 1 - Photo 1.png" alt="Alt text" width="300"/>
+<img src="Project 1/Project 1 - Photo 2.png" alt="Alt text" width="300"/>
 
 The inspiration for this visual representation of a real-time clock is when water drips off of a stalactite, leading me to wonder how I could use water droplets to represent time. Water droplets led me to the idea of a water dropper filling up a beaker, with a drop falling every second, filling the beaker up every minute. Then I continued with that idea to make a whole chemistry setup to be a clock.
 The code techniques I used for my digital representation of a clock include using real-time functions to get the real-time, such as now.getSeconds();, now.getMinutes();, and now.getHours();. These functions allowed real-time values to be assigned to the clock in the program. Another coding technique I used in this project is particles used for the water droplet and adding a positive velocity to it, causing it to fall. The droplet was also coded in a way that one would drop every second, but it would be spliced (removed) after it passed the floor Y-level of the beaker.
@@ -22,8 +21,8 @@ If I were to do this project again, I would work harder to find a way to complet
 #### A city or landscape generator, with at least 3 distinct types of building or land
 [Landscape Generator](https://editor.p5js.org/RyanB2024/sketches/L9X75r_a8)
 
-<img src="Project 2 - Day.png" alt="Alt text" width="300"/>
-<img src="Project 2 - Night.png" alt="Alt text" width="300"/>
+<img src="Project 2/Project 2 - Day.png" alt="Alt text" width="300"/>
+<img src="Project 2/Project 2 - Night.png" alt="Alt text" width="300"/>
 
 The starting inspiration point for this landscape generator is that I looked up landscape generators on the internet. One example I came across was one called “Landscape Generator 1” by Jon Froehlich. What I liked about this example is the generation of a mountain range in the background that changes heights. Another aspect I enjoy about this example is the moon and sun in the sky. Although I didn’t use any of Jon Froehlich's code, I was inspired by elements of his design that I took for my project.
 The code techniques I used for my landscape generator include creating const variables that would be assigned random values. For example, a variable for day or night generation would decide if the scene would be taking place during the day or nighttime, then change the colors of the objects based on that scheme, like making the circle in the sky a sun or moon. Another technique I used was making a random width and height value for the mountain to influence how it will look. The last technique I used in my landscape generator is the random generator for the plants and buildings. For the plants, the distances between them are random x-values between 60–120 pixels, spacing them apart, but not equally, to feel more organic. The buildings are all equally spaced 100 pixels apart, to be more uniform and building-like.
@@ -35,9 +34,9 @@ Another part of the project I would want to work more on if I did it again is th
 #### An autonomous pattern generator that will create a rich visual effect that is different each time it is rune
 [Patter Generator](https://editor.p5js.org/RyanB2024/sketches/KTnNE3Lgz)
 
-<img src="Project 3 - Photo1.png" alt="Alt text" width="300"/>
-<img src="Project 3 - Photo2.png" alt="Alt text" width="300"/>
-<img src="Project 3 - Photo3.png" alt="Alt text" width="300"/>
+<img src="Project 3/Project 3 - Photo1.png" alt="Alt text" width="300"/>
+<img src="Project 3/Project 3 - Photo2.png" alt="Alt text" width="300"/>
+<img src="Project 3/Project 3 - Photo3.png" alt="Alt text" width="300"/>
 
 The starting point for my autonomous pattern generator was looking at Tyler Hobbs’ Fidenza generative art piece for inspiration. Through inspecting the piece, I took aspects of it and included them in my artwork. For example, the piece flows towards and around certain parts of the canvas. This turbulence of the canvas inspired how I made mine. For my turbulence, I added specific variables that add random attracting and repelling points across the canvas, and using angle averagers, it would influence how the piece of work would flow on the canvas.
 The coding techniques that I used in this project began with creating a random palette variable that would include four random colors each time from the preselected 25 base colors. This allows each piece to look individually different and separate from each other, instead of looking similar with the same colors every time. It was also important not to use too many of the 25 colors for the same reason, since it would average out and every generation would look the same with a blend of colors.
