@@ -20,7 +20,7 @@ If I were to do this project again, I would work harder to find a way to complet
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Experiment 2
 #### A city or landscape generator, with at least 3 distinct types of building or land
-[Landscape Generator](https://editor.p5js.org/RyanB2024/sketches/L9X75r_a8)
+[Landscape Generator](/Landscape_Generator_2025_06_03_16_03_19/index.html)
 
 <img src="Project 2/Project 2 - Day.png" alt="Alt text" width="300"/>
 <img src="Project 2/Project 2 - Night.png" alt="Alt text" width="300"/>
@@ -33,7 +33,7 @@ Another part of the project I would want to work more on if I did it again is th
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Experiment 3
 #### An autonomous pattern generator that will create a rich visual effect that is different each time it is rune
-[Patter Generator](https://editor.p5js.org/RyanB2024/sketches/KTnNE3Lgz)
+[Patter Generator](/Autonomous_Pattern_Generator_2025_06_03_16_04_54/index.html)
 
 <img src="Project 3/Project 3 - Photo1.png" alt="Alt text" width="300"/>
 <img src="Project 3/Project 3 - Photo2.png" alt="Alt text" width="300"/>
