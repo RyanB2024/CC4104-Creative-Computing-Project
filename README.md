@@ -6,7 +6,7 @@ By Ryan Blestowe
 
 ### Experiment 1
 #### An Alternative Visual Way to Represent a Realtime Clock
-[Real-time Clock](/Real-time_Clock_2025_06_03_15_50_05/index.html)
+[Real-time Clock](/Real-time_Clock_2025_06_03_17_49_25/index.html)
 
 <img src="Project 1/Project 1 - Photo 1.png" alt="Alt text" width="300"/>
 <img src="Project 1/Project 1 - Photo 2.png" alt="Alt text" width="300"/>
