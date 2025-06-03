@@ -6,7 +6,7 @@ By Ryan Blestowe
 
 ### Experiment 1
 #### An Alternative Visual Way to Represent a Realtime Clock
-[Real-time Clock](/project-1/Project1-sketch.js)
+[Real-time Clock](/project-1/index.html)
 
 <img src="Project 1 - Photo 1.png" alt="Alt text" width="300"/>
 <img src="Project 1 - Photo 2.png" alt="Alt text" width="300"/>
